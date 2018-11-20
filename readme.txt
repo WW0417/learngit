@@ -6,7 +6,11 @@ test1
 test2
 mylit
 Creating a new branch is quick.
+<<<<<<< HEAD
 Add new dev branch master.
+=======
+Add new dev branch master.
+>>>>>>> dev
 
 <<<<<<< HEAD
 Creating a new branch is quick AND simple.
